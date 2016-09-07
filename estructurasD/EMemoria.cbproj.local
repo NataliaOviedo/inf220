@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/06 17:41:47.403.cpp,C:\Users\NATALIA\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\NATALIA\Dropbox\estructurasD\FormularioM.cpp</Transaction>
+    <Transaction>2016/09/06 17:41:47.403.h,C:\Users\NATALIA\Documents\RAD Studio\Projects\Unit2.h=C:\Users\NATALIA\Dropbox\estructurasD\FormularioM.h</Transaction>
+    <Transaction>2016/09/06 17:41:47.403.dfm,C:\Users\NATALIA\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\NATALIA\Dropbox\estructurasD\FormularioM.dfm</Transaction>
+    <Transaction>2016/09/06 17:41:56.732.cbproj,C:\Users\NATALIA\Documents\RAD Studio\Projects\Project3.cbproj=C:\Users\NATALIA\Dropbox\estructurasD\EMemoria.cbproj</Transaction>
+    <Transaction>2016/09/06 17:45:49.533.cpp,C:\Users\NATALIA\Dropbox\estructurasD\Unit1.cpp=C:\Users\NATALIA\Dropbox\estructurasD\DMemoria.cpp</Transaction>
+    <Transaction>2016/09/06 17:45:49.533.h,C:\Users\NATALIA\Dropbox\estructurasD\Unit1.h=C:\Users\NATALIA\Dropbox\estructurasD\DMemoria.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DMemoria.cpp"/>
+    <File Path="DMemoria.cpp"/>
+    <File Path="DMemoria.h"/>
+    <File Path="EMemoria.cpp"/>
+    <File Path="EMemoria.res"/>
+    <File Path="FormularioM.cpp"/>
+    <File Path="FormularioM.cpp"/>
+    <File Path="FormularioM.dfm"/>
+    <File Path="FormularioM.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
